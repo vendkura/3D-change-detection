@@ -57,7 +57,7 @@ print(stats)
 | File | What it is |
 |---|---|
 | `index.py` | The full step-by-step script, with the plots. |
-| `index original.py` | The first version of that script. |
+| `index original.py` | A backup copy of `index.py`. |
 | `pipeline.py` | The same steps as plain functions, with no script code. |
 | `claude code spec.md` | The spec used to turn the pipeline into a Streamlit demo. |
 
